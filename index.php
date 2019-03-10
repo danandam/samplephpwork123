@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>i'm a devops guru, i alwayz do the right job!</h1>
+<h1>Today is 10 March 2019</h1>
 
 <?php
-echo "version :Ver 1.0";
+echo "Today is Sunday";
 ?>
 
 </body>
