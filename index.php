@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>Today is 10 March 2019</h1>
+<h1>Have a nice day</h1>
 
 <?php
-echo "Today is Sunday";
+echo "Today";
 ?>
 
 </body>
